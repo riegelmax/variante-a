@@ -7,8 +7,8 @@ export function Button2 (){
 
 
 
-const ingredients = ["Gurken", "Anis", "Milch", "Nuss", "Sahne", "Hühnchen", "Karotten", "Suppe", "Smoothie"]
-const types = ["Kaffee", "Tee", "Drink", "Schnaps", "Shake", "Mix"]
+const ingredients = ["Gurken", "Anis", "Milch", "Nuss", "Sahne", "Hühnchen", "Karotten"]
+const types = ["Kaffee", "Tee", "Drink", "Schnaps", "Shake", "Mix", "Suppe", "Smoothie"]
 const adjectives = ["Lecker:", "Natürlich:", "Super gesund:", "Abenteuerlich:", "Tibetanischer Style:"]
 
 var ing1 = ingredients[Math.floor(Math.random()*ingredients.length)]
